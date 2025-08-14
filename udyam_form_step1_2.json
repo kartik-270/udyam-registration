@@ -1,0 +1,201 @@
+{
+    "inputs": [
+        {
+            "name": "__EVENTTARGET",
+            "id": "__EVENTTARGET",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "__EVENTARGUMENT",
+            "id": "__EVENTARGUMENT",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "__VIEWSTATE",
+            "id": "__VIEWSTATE",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "__VIEWSTATEGENERATOR",
+            "id": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "__VIEWSTATEENCRYPTED",
+            "id": "__VIEWSTATEENCRYPTED",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "__EVENTVALIDATION",
+            "id": "__EVENTVALIDATION",
+            "type": "hidden",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "ctl00$ContentPlaceHolder1$txtadharno",
+            "id": "ctl00_ContentPlaceHolder1_txtadharno",
+            "type": "text",
+            "placeholder": "Your Aadhaar No",
+            "pattern": "",
+            "maxlength": "12",
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "ctl00$ContentPlaceHolder1$txtownername",
+            "id": "ctl00_ContentPlaceHolder1_txtownername",
+            "type": "text",
+            "placeholder": "Name as per Aadhaar",
+            "pattern": "",
+            "maxlength": "100",
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+            "id": "ctl00_ContentPlaceHolder1_chkDecarationA",
+            "type": "checkbox",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+            "id": "ctl00_ContentPlaceHolder1_btnValidateAadhaar",
+            "type": "submit",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        },
+        {
+            "name": "",
+            "id": "checkbox",
+            "type": "checkbox",
+            "placeholder": "",
+            "pattern": "",
+            "maxlength": null,
+            "minlength": null,
+            "title": ""
+        }
+    ],
+    "labels": [
+        {
+            "for": "ownernamee",
+            "text": "1. Aadhaar Number/ आधार संख्या"
+        },
+        {
+            "for": "ownernamee",
+            "text": "2. Name of Entrepreneur / उद्यमी का नाम"
+        },
+        {
+            "for": "checkbox",
+            "text": ""
+        }
+    ],
+    "dropdowns": [],
+    "buttons": [
+        {
+            "id": "",
+            "type": "button",
+            "text": ""
+        },
+        {
+            "id": "",
+            "type": "button",
+            "text": ""
+        },
+        {
+            "id": "speak",
+            "type": "submit",
+            "text": "Text To Speech"
+        },
+        {
+            "id": "btn-s9",
+            "type": "submit",
+            "text": ""
+        },
+        {
+            "id": "btn-s13",
+            "type": "submit",
+            "text": "Text Spacing"
+        },
+        {
+            "id": "btn-s12",
+            "type": "submit",
+            "text": ""
+        },
+        {
+            "id": "btn-s10",
+            "type": "submit",
+            "text": "Highlight Links"
+        },
+        {
+            "id": "btn-df",
+            "type": "submit",
+            "text": "Dyslexia Friendly"
+        },
+        {
+            "id": "btn-s11",
+            "type": "submit",
+            "text": "Hide Images"
+        },
+        {
+            "id": "btn-cursor",
+            "type": "submit",
+            "text": "Cursor"
+        },
+        {
+            "id": "dark-btn",
+            "type": "submit",
+            "text": "Light-Dark"
+        },
+        {
+            "id": "btn-invert",
+            "type": "submit",
+            "text": "Invert Colors"
+        },
+        {
+            "id": "reset-all",
+            "type": "submit",
+            "text": "Reset All Settings"
+        },
+        {
+            "id": "uw-widget-custom-trigger",
+            "type": "submit",
+            "text": ""
+        }
+    ]
+}
